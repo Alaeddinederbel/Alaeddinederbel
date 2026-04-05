@@ -49,7 +49,7 @@ Passionate about building systems where **hardware meets software in real time**
 
 ## 🚀 Featured Projects
 
-**01 — 🚗 CAN Bus Dashboard (STM32F429)**
+**[🚗 CAN Dashboard System]([https://github.com/AlaEddineDerbel/can-bus-dashboard](https://github.com/Alaeddinederbel/CAN_Dashboard))**
 Multi-ECU simulation over a shared CAN network. UART telemetry visualization + Python hardware-in-the-loop validation.
 `STM32` `CAN Bus` `Embedded C` `Python HIL`
 
