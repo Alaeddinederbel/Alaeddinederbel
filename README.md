@@ -90,11 +90,8 @@ Open to full-time roles, freelance projects, and collaborations in embedded syst
 
 ---
 
-## 📅 Contribution Calendar
+## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/Alaeddinederbel" />
-</p>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alaeddinederbel&theme=tokyo-night)
 
 *⭐ Always building, learning, and improving — one embedded system at a time.*
