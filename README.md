@@ -90,4 +90,11 @@ Open to full-time roles, freelance projects, and collaborations in embedded syst
 
 ---
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Alaeddinederbel" />
+</p>
+
+
 *⭐ Always building, learning, and improving — one embedded system at a time.*
