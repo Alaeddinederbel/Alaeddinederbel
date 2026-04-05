@@ -26,21 +26,42 @@ Passionate about building systems where **hardware meets software in real time**
 
 ## 🚀 Featured Projects
 
-**[🚗 CAN Bus Dashboard](https://github.com/Alaeddinederbel/CAN_Dashboard)**   
-Multi-ECU simulation over a shared CAN network. UART telemetry visualization + Python hardware-in-the-loop validation.
-`STM32` `CAN Bus` `Embedded C` `Python HIL`
+**[🚗 CAN Dashboard](https://github.com/Alaeddinederbel/CAN_Dashboard)**   
+Multi-ECU simulation over a shared CAN network. UART telemetry visualization + Python hardware-in-the-loop validation.          
+ `STM32` `CAN Bus` `Embedded C` `Python HIL`
 
 ---
 
-**[📡 OTA Firmware Update](https://github.com/Alaeddinederbel/OTA-Firmware-Update-System-ESP32-ESP8266-)**
-Secure Wi-Fi OTA pipeline. Full lifecycle: download → verify → flash → reboot. Production-ready for IoT fleets.
+**[📡 OTA Firmware Update System](https://github.com/Alaeddinederbel/OTA-Firmware-Update-System-ESP32-ESP8266-)**            
+Secure Wi-Fi OTA pipeline. Full lifecycle: download → verify → flash → reboot. Production-ready for IoT fleets.     
 `ESP32` `Wi-Fi` `OTA` `IoT`
 
 ---
 
-**[🤖 Autonomous Navigation]https://github.com/Alaeddinederbel/visual-slam-ros2)**  
-SLAM-based navigation with ORB-SLAM3, RTAB-Map & Nav2. Real-time perception at <100ms latency, 30 FPS.
+**[🤖 Visual SLAM Pipeline for Autonomous Robotic Navigation](https://github.com/Alaeddinederbel/visual-slam-ros2)**  
+SLAM-based navigation with ORB-SLAM3, RTAB-Map & Nav2. Real-time perception at <100ms latency, 30 FPS.                      
 `ROS2` `ORB-SLAM3` `RTAB-Map` `Nav2` `Linux`
+
+---
+
+## 💼 Experience
+
+### **2025 · LATIS Laboratory**  
+*Embedded Systems | Autonomous Robotics*  
+ROS2 navigation stack · ORB-SLAM3 · RTAB-Map · Real-time performance (<100 ms latency)
+
+---
+
+### **2024 · LEONI**  
+*Embedded Systems | Fault Detection*  
+ESP32 · ESP-NOW communication · .NET monitoring dashboard · Cable harness testing systems
+
+---
+
+### **2023 · SEA Electronics**  
+*Embedded Hardware*  
+PCB design · Stepper motor control · Hardware debugging & testing
+
 
 ---
 
@@ -62,9 +83,11 @@ SLAM-based navigation with ORB-SLAM3, RTAB-Map & Nav2. Real-time perception at <
 
 ## 📫 Let's Connect
 
-- 📧 Email: derbel176@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/ala-eddine-derbel
-- 💻 GitHub: https://github.com/AlaEddineDerbel
+Open to full-time roles, freelance projects, and collaborations in embedded systems, firmware, or IoT.
+
+- 📧 **Email** — [derbel176@gmail.com](mailto:derbel176@gmail.com)
+- 🔗 **LinkedIn** — [Ala Eddine Derbel](https://linkedin.com/in/ala-eddine-derbel)
+- 💻 **GitHub** — [AlaEddineDerbel](https://github.com/AlaEddineDerbel)
 
 ---
 
