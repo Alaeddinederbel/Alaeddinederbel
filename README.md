@@ -33,7 +33,7 @@ Multi-ECU simulation over a shared CAN network. UART telemetry visualization + P
 ---
 
 **[📡 OTA Firmware Update System](https://github.com/Alaeddinederbel/OTA-Firmware-Update-System-ESP32-ESP8266-)**            
-Secure Wi-Fi OTA pipeline. Full lifecycle: download → verify → flash → reboot. Production-ready for IoT fleets.     
+Secure Wi-Fi OTA pipeline. Full lifecycle: *download → verify → flash → reboot*.                   
 `ESP32` `Wi-Fi` `OTA` `IoT`
 
 ---
@@ -61,7 +61,6 @@ ESP32 · ESP-NOW communication · .NET monitoring dashboard · Cable harness tes
 ### **2023 · SEA Electronics**  
 *Embedded Hardware*  
 PCB design · Stepper motor control · Hardware debugging & testing
-
 
 ---
 
