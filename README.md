@@ -18,8 +18,8 @@ Passionate about building systems where **hardware meets software in real time**
 💻 **Programming:** Embedded C, C++, Python  
 🔧 **MCUs:** STM32, ESP32, PIC18F  
 ⚙️ **Systems:** FreeRTOS, Embedded Linux (ROS2 basics)  
-📡 **Protocols:** CAN, UART, SPI, I2C, ESP-NOW  
-🛠️ **Tools:** STM32CubeIDE, ESP-IDF, VS Code, Git  
+📡 **Protocols:** CAN, UART, SPI, I2C 
+🛠️ **Tools:** STM32CubeIDE, VS Code, Git  
 🔌 **Hardware:** PCB design, debugging, oscilloscopes, logic analyzers  
 
 ---
@@ -52,13 +52,13 @@ ROS2 navigation stack · ORB-SLAM3 · RTAB-Map · Real-time performance (<100 ms
 
 ---
 
-### **2024 · LEONI**  
+### **2024 · LEONI Tunisia**  
 *Embedded Systems | Fault Detection*  
 ESP32 · ESP-NOW communication · .NET monitoring dashboard · Cable harness testing systems
 
 ---
 
-### **2023 · SEA Electronics**  
+### **2023 · SEA Electronics Tunisia**  
 *Embedded Hardware*  
 PCB design · Stepper motor control · Hardware debugging & testing
 
@@ -94,4 +94,4 @@ Open to full-time roles, freelance projects, and collaborations in embedded syst
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alaeddinederbel&theme=tokyo-night)
 
-*⭐ Always building, learning, and improving — one embedded system at a time.*
+*⭐ Always building, learning, and improving — one embedded system at a time ⭐*
