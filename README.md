@@ -85,8 +85,8 @@ PCB design · Stepper motor control · Hardware debugging & testing
 Open to full-time roles, freelance projects, and collaborations in embedded systems, firmware, or IoT.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-AlaEddineDerbel-555?style=flat-square&logo=githubpages)](https://alaeddinederbel.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-AlaEddineDerbel-red?logo=gmail)](mailto:derbel176gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlaEddineDerbel-blue?logo=linkedin)](https://www.linkedin.com/in/ala-eddine-derbel-a78624273/)
+[![Gmail](https://img.shields.io/badge/Gmail-AlaEddineDerbel-red?logo=gmail)](mailto:derbel176gmail.com)
 
 
 ---
