@@ -88,11 +88,6 @@ Open to full-time roles, freelance projects, and collaborations in embedded syst
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlaEddineDerbel-blue?logo=linkedin)](https://www.linkedin.com/in/ala-eddine-derbel-a78624273/)
 [![Gmail](https://img.shields.io/badge/Gmail-AlaEddineDerbel-red?logo=gmail)](mailto:derbel176gmail.com)
 
-
 ---
-
-## 📊 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alaeddinederbel&theme=tokyo-night)
 
 *⭐ Always building, learning, and improving, one embedded system at a time ⭐*
