@@ -15,7 +15,7 @@ Passionate about building systems where **hardware meets software in real time**
 ---
 ## 🧠 What I Work With
 
-💻 **Programming:** Embedded C, C++, Python  
+💻 **Programming:** C, C++, Python  
 🔧 **MCUs:** STM32, ESP32, PIC18F  
 ⚙️ **Systems:** FreeRTOS, Embedded Linux (ROS2 basics)  
 📡 **Protocols:** CAN, UART, SPI, I2C       
