@@ -2,7 +2,7 @@
 
 # Hi, I'm Ala Eddine 👋
 
-### Embedded Systems Engineer · Firmware · RTOS · Robotics
+### Embedded Systems Engineer · Robotics
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4ade80?style=for-the-badge" alt="Open to work"/>
 <img src="https://img.shields.io/badge/📍-Sousse,%20Tunisia-1e293b?style=for-the-badge" alt="Location"/>
